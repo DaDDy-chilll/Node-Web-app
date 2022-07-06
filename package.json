@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "name": "node-web-app",
+  "description": "This website is build base on Nodejs Server Side Language.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaDDy-chilll/Node-Web-app.git"
+  },
+  "author": "DaDDy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaDDy-chilll/Node-Web-app/issues"
+  },
+  "homepage": "https://github.com/DaDDy-chilll/Node-Web-app#readme"
+}
